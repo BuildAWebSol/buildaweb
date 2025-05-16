@@ -39,7 +39,7 @@ No coding. No waiting. Just deploy and share.
 
 ## 🚀 Quick Start
 
-> Coming soon – No install required. Just go to our telegram bot [@BuildAWeb_bot](https://t.me/BuildAWeb_bot) and launch.
+> No install required. Just go to our telegram bot [@BuildAWeb_bot](https://t.me/BuildAWeb_bot) and launch.
 
 ---
 
